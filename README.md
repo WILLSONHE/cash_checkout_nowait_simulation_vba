@@ -1,1 +1,3 @@
 # cash_checkout_nowait_simulation_vba
+
+Imagine you are manning a gate at an event which has an entrance fee of $5. Since it can be hectic at gates, you would like to avoid to have people waiting for change if they only brought a $10 bill.  This simulation is will consider any needing to wait for change as failure.  The spreadsheet fiveTen will be trying to simulate a line where people arrive have equal chances of having a 5 or 10. Given a certain number of seats for the event. How many 5 dollar bills should you start with so that it will be likely (more than 80% of the time) that no one will wait for change?
